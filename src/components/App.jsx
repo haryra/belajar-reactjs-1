@@ -66,10 +66,10 @@ export default function App() {
   )
 }
 
+// Catatan Video React
 
 // Buka console di browser
 // ctrl + Shift + i
-
 
 // Menit 48.30
 // Console Ninja
@@ -79,3 +79,4 @@ export default function App() {
 
 // #4 Membuat App CATATAN BELANJA | Tutorial REACT "Paling Masuk Akal" untuk PEMULA 🤩🌐
 // Menit : 01.18.46 (Menyiapkan item baru)
+// Link Sumber : https://youtu.be/HX2kAHnCEjY?si=jY2BD4DZkoYuO9VS
